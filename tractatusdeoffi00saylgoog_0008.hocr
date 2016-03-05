@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tractatusdeoffi00saylgoog_0008.png"; bbox 0 0 2828 5048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 410 1863 1018 1940">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 410 1863 1018 1940">
+     <span class='ocr_line' id='line_1_1' title="bbox 410 1863 1018 1940; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 410 1863 720 1939; x_wconf 90' lang='lat' dir='ltr'><strong>IOHANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 782 1864 1018 1940; x_wconf 85' lang='lat' dir='ltr'>WYCLIF</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 636 2224 793 2254">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 636 2224 793 2254">
+     <span class='ocr_line' id='line_1_2' title="bbox 636 2224 793 2254; baseline 0.013 -10"><span class='ocrx_word' id='word_1_3' title='bbox 636 2224 793 2254; x_wconf 55' lang='grc' dir='ltr'>...μ-.-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 529 2490 900 2587">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 529 2490 900 2587">
+     <span class='ocr_line' id='line_1_3' title="bbox 529 2490 900 2587; baseline 0.008 -3"><span class='ocrx_word' id='word_1_4' title='bbox 529 2490 900 2587; x_wconf 74' lang='lat' dir='ltr'><em>TRAcTAT&#39;st</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 386 2813 1026 2889">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 386 2813 1026 2889">
+     <span class='ocr_line' id='line_1_4' title="bbox 386 2813 1026 2889; baseline 0.005 -4"><span class='ocrx_word' id='word_1_5' title='bbox 386 2813 473 2886; x_wconf 86' lang='lat' dir='ltr'><em>DE</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 525 2813 778 2888; x_wconf 86' lang='lat' dir='ltr'><em>OFFICIO</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 828 2815 1026 2889; x_wconf 84' lang='lat' dir='ltr'><em>REGIS</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1418 5048">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1418 5048">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1418 5048; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1418 5048; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
